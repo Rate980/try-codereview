@@ -1,2 +1,2 @@
 print("nemui")
-print("小倉良悟")
+print("小倉 良悟")
