@@ -1,3 +1,4 @@
-fn main(){
-  println!("fuck you");
+fn main() {
+    println!("fuck you");
+    println!("くたばれ");
 }
